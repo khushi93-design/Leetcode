@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushi93-design/Leetcode/tree/master/0001-two-sum) |
+| [0162-find-peak-element](https://github.com/khushi93-design/Leetcode/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/khushi93-design/Leetcode/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/khushi93-design/Leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
