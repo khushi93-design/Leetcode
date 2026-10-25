@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/khushi93-design/Leetcode/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/khushi93-design/Leetcode/tree/master/0162-find-peak-element) |
+| [1254-number-of-closed-islands](https://github.com/khushi93-design/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/khushi93-design/Leetcode/tree/master/0162-find-peak-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/khushi93-design/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/khushi93-design/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/khushi93-design/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/khushi93-design/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
