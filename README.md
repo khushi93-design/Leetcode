@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushi93-design/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/khushi93-design/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0162-find-peak-element](https://github.com/khushi93-design/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/khushi93-design/Leetcode/tree/master/0189-rotate-array) |
 | [1254-number-of-closed-islands](https://github.com/khushi93-design/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -59,5 +60,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/khushi93-design/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/khushi93-design/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
