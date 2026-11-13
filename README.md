@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushi93-design/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/khushi93-design/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/khushi93-design/Leetcode/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/khushi93-design/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/khushi93-design/Leetcode/tree/master/1732-find-the-highest-altitude) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/khushi93-design/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
