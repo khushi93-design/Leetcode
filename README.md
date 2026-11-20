@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/khushi93-design/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/khushi93-design/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khushi93-design/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/khushi93-design/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/khushi93-design/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/khushi93-design/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/khushi93-design/Leetcode/tree/master/0509-fibonacci-number) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/khushi93-design/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/khushi93-design/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/khushi93-design/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushi93-design/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khushi93-design/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/khushi93-design/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Greedy
 |  |
 | ------- |
