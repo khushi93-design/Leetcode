@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/khushi93-design/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khushi93-design/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/khushi93-design/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/khushi93-design/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/khushi93-design/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/khushi93-design/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushi93-design/Leetcode/tree/master/0001-two-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/khushi93-design/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/khushi93-design/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/khushi93-design/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/khushi93-design/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/khushi93-design/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/khushi93-design/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/khushi93-design/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/khushi93-design/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sorting
 |  |
 | ------- |
@@ -112,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/khushi93-design/Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/khushi93-design/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
