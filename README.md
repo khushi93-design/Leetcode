@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/khushi93-design/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushi93-design/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/khushi93-design/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/khushi93-design/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/khushi93-design/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/khushi93-design/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khushi93-design/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/khushi93-design/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/khushi93-design/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/khushi93-design/Leetcode/tree/master/0509-fibonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/khushi93-design/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/khushi93-design/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/khushi93-design/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/khushi93-design/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## String
@@ -120,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/khushi93-design/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/khushi93-design/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/khushi93-design/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
