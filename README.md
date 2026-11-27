@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/khushi93-design/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/khushi93-design/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3934-smallest-unique-subarray](https://github.com/khushi93-design/Leetcode/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/khushi93-design/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/khushi93-design/Leetcode/tree/master/0509-fibonacci-number) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/khushi93-design/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/khushi93-design/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/khushi93-design/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Recursion
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/khushi93-design/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/khushi93-design/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Tree
 |  |
 | ------- |
